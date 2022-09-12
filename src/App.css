@@ -1,0 +1,13 @@
+.container>a{
+    padding: 10px;
+    background-color: blanchedalmond;
+    cursor: crosshair;
+    border-radius: 5px;
+}
+.container>input{
+    padding: 10px;
+    margin: 2px;
+    background-color: aqua;
+    border-radius: 5px;
+    transform: translateY(-2px);
+}
